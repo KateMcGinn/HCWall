@@ -1,0 +1,31 @@
+{
+  "name": "hcwall",
+  "version": "1.0.0",
+  "description": "hackcville project and job board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KateMcGinn/HCWall.git"
+  },
+  "keywords": [
+    "hackcville",
+    "javascript",
+    "jobboard"
+  ],
+  "author": "kate mcginn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KateMcGinn/HCWall/issues"
+  },
+  "homepage": "https://github.com/KateMcGinn/HCWall#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.11.3",
+    "nodemon": "^1.11.0"
+  }
+}
